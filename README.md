@@ -33,6 +33,12 @@ Images:
   An image is a template
   An image include code, runtime, system tools, system libraries and settings.
 
+Dockerfile:
+  A Dockerfile contains a script of instructions to build a docker image
+
+docker-compose.yml
+  A docker-compose file connects different containers
+
 Docker Hub:
   Docker Hub is an online collection of Images - just like GitHub is an online collection of code
 
